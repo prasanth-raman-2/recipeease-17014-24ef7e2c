@@ -1,0 +1,4 @@
+{
+    "command": "flutter build apk --release --target-platform android-x64",
+    "working_directory": "/home/kavia/workspace/code-generation/recipeease-17014-24ef7e2c/recipeease"
+}
